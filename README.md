@@ -4,7 +4,7 @@
  
 In parallel, I lead digital transformation initiatives at a financial services company, leveraging AI and data-driven strategies to drive operational efficiency, actionable insights, and long-term business value.
 
-🌱 I recently built a Multi-Agent AI Framework to detect anomalies in real time and proactively communicate with stakeholders, helping minimize operational disruptions and mitigate potential revenue loss.
+🌱 I recently built a [Multi-Agent AI Framework](https://github.com/krishnamami/Multi_Agent_Anamoly_Detection) to detect anomalies in real time and proactively communicate with stakeholders, helping minimize operational disruptions and mitigate potential revenue loss.
 
 The system is designed to automate anomaly detection and decision routing, making it scalable and adaptable for various business-critical use cases.
 
