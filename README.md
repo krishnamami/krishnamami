@@ -2,7 +2,7 @@
 
  🔭  I'm Krishna — Data and AI enthusiast currently contributing to the development of [MeridioAI](https://www.meridioai.com/),a conversational AI startup focused on redefining customer engagement in the restaurant industry through smart, chatbot-driven experiences.
  
-In parallel, I lead digital transformation initiatives at a financial services company, leveraging AI and data-driven strategies to drive operational efficiency, actionable insights, and long-term business value.
+In parallel, I lead digital transformation initiatives at [Rocket Companies](https://www.rocketcompanies.com), a leading financial services organization, where I apply AI and data-driven strategies to enhance operational efficiency, generate actionable insights, and deliver long-term business value.
 
 🌱 I recently built a [Multi-Agent AI Framework](https://github.com/krishnamami/Multi_Agent_Anamoly_Detection) for real-time anomaly detection and proactive stakeholder communication, helping mitigate operational risks and potential revenue loss. The framework automates detection and decision routing, making it scalable and adaptable to a range of business-critical use cases.
 
