@@ -1,6 +1,9 @@
 ## Hi there , I’m Krishna Goud 
 
-### 🔭 Head of Data Engineering & AI @ Rocket LA (part of [Rocket Companies](https://www.rocketcompanies.com/))
+### 🚀  Head of Data Engineering & AI @ Rocket LA (part of [Rocket Companies](https://www.rocketcompanies.com/))
+$4B+ in Originations | 📈 $800M+ Revenue Impact | Architecting AI-Driven, Cloud-Native Platforms for Scalable Growth
+
+
  
 I’m a Data & AI Leader with deep expertise in building intelligent, scalable platforms that deliver measurable business impact.
 At Rocket LA, I lead the Data Engineering and AI function — driving billions in originations and marketing optimizations by architecting real-time ML pipelines, modern cloud infrastructure, and enterprise AI strategy.
