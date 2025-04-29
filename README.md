@@ -1,12 +1,12 @@
 ## Hi there , I’m Krishna Goud 
 
-### 🚀  Head of Data Engineering & AI @ Rocket LA (part of [Rocket Companies](https://www.rocketcompanies.com/))
-$4B+ in Originations | 📈 $800M+ Revenue Impact | Architecting AI-Driven, Cloud-Native Platforms for Scalable Growth
+### 🚀  Head of Data Engineering & MLops @ Rocket LA (part of [Rocket Companies](https://www.rocketcompanies.com/))
+$4B+ Business Growth | 📈 $800M+ Revenue Impact | Architecting AI-Driven, Cloud-Native Platforms for Scalable Growth
 
 
  
 I’m a Data & AI Leader with deep expertise in building intelligent, scalable platforms that deliver measurable business impact.
-At Rocket LA, I lead the Data Engineering and AI function — driving billions in originations and marketing optimizations by architecting real-time ML pipelines, modern cloud infrastructure, and enterprise AI strategy.
+At Rocket LA, I lead the Data Engineering and MLops function — driving billions in originations and marketing optimizations by architecting real-time ML pipelines, modern cloud infrastructure, and enterprise AI strategy.
 
 I am also contributing to the development of [MeridioAI](https://www.meridioai.com/),a conversational AI startup focused on redefining customer engagement in the restaurant industry through smart, chatbot-driven experiences.
 
