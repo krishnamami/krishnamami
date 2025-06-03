@@ -20,6 +20,7 @@ I am also contributing to the development of [MeridioAI](https://www.meridioai.c
 | [Markov_Chain_Attribution](https://github.com/krishnamami/Markov_Chain_Attribution) | Probabilistic attribution modeling using channel survival analysis |
 | [Distributed_ML_Sagemaker_Pipelines](https://github.com/krishnamami/Distributed_ML_Sagemaker_Pipelines) | Scalable ML pipeline on SageMaker for distributed training and deployment |
 | [Exploratory_Data_Analysis](https://github.com/krishnamami/Exploratory_Data_Analysis) | Deep EDA on survival dataset using Python, Seaborn, and Matplotlib |
+| [Exploratory_Data_Analysis](https://github.com/krishnamami/Exploratory_Data_Analysis) | Deep EDA on survival dataset using Python, Seaborn, and Matplotlib |
 
 ## 🛠️ Technical Skills
 
