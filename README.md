@@ -1,6 +1,6 @@
 ## Hi there , I’m Krishna Goud 
 
-### 🚀  Head of Data Engineering & MLops @ Rocket LA (part of [Rocket Companies](https://www.rocketcompanies.com/))
+### 🚀  Data & MLops Leader @ Rocket LA (part of [Rocket Companies](https://www.rocketcompanies.com/))
 $4B+ Business Growth | 📈 $800M+ Revenue Impact | Architecting AI-Driven, Cloud-Native Platforms for Scalable Growth
 
 
