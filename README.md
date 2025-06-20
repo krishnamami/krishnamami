@@ -19,7 +19,7 @@ I am also contributing to the development of [MeridioAI](https://www.meridioai.c
 | [Multi_Agent_Anamoly_Detection](https://github.com/krishnamami/Multi_Agent_Anamoly_Detection) | AI agents for intelligent anomaly detection in ML Ops systems |
 | [End to End MLOps pipelines with CI/CD](https://github.com/krishnamami/MLOPS_end_end_CICD_Pipelines_Jenkins) | End to End MLOps pipelines using CI/CD |
 | [Distributed_ML_Sagemaker_Pipelines](https://github.com/krishnamami/Distributed_ML_Sagemaker_Pipelines) | Scalable ML pipeline on SageMaker for distributed training and deployment |
-| [Exploratory_Data_Analysis](https://github.com/krishnamami/Exploratory_Data_Analysis) | Deep EDA on survival dataset using Python, Seaborn, and Matplotlib |
+| [MLOps with CICD using GitOps on AWS ECR](https://github.com/krishnamami/MLOps-CICD_GitOps_AWS) | Deep EDA on survival dataset using Python, Seaborn, and Matplotlib |
 | [AI Powered Taxanomy Generation Engine](https://github.com/krishnamami/AI-Powered_Email_Campaign_Taxonomy-_Engine) | Agent based approach to generate Taxanomy with Pydantic Validation |
 
 ## 🛠️ Technical Skills
